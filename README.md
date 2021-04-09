@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpartanBaconMann
+- 👀 I’m interested in video/audio editing and modding games.
+- 🌱 I’m currently learning how to hex edit basic video and audio metadata.
+- 💞️ I’m looking to collaborate on nothing. I'm pretty useless to this site.
+- 📫 How to reach me? Why would you?
